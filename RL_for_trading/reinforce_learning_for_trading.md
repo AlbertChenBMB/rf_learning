@@ -1,5 +1,22 @@
-# RUsing Machine Learning in Trading- Coursera
-# trading
+# AI Trading- Coursera
+###### tags: `Reinofrcement Learning`
+[![hackmd-github-sync-badge](https://hackmd.io/y8Puz1P5S-OgqDZdX1CG6Q/badge)](https://hackmd.io/y8Puz1P5S-OgqDZdX1CG6Q)
+
+這個筆記參考兩堂課:
+1. Reinofrcement Learning for Trading
+2. Using Machine Learning in Trading
+
+目前先針對課堂1做筆記
+並結合另一堂Udemy的RF實作課程
+## 1. Reingorcement Learning for Trading
+這堂課的重點:
+* 了解增強式學習與監督式, 非監督式的差別
+* 了解增強式學習的jargon
+* 了解馬可夫過程(Markov Decision Processes
+
+
+## 2. Using Machine Learning in Trading
+trading
 這是參考coursera的課程
 Using Machine Learning in Trading
 課程目標如下
@@ -9,9 +26,9 @@ Using Machine Learning in Trading
 * Build a pair trading strategy prediction model and back test it
 * Build a momentum-based trading model and back test it
 
-## Basic Trading Strategy
+### Basic Trading Strategy
 
-### Entries and Exits of Trading
+#### Entries and Exits of Trading
 什麼時候進場?什麼時候出場?
 1. Entry signal
 2. Profit exit
@@ -19,9 +36,9 @@ Using Machine Learning in Trading
 4. Time out
 
 
-## Endogenous Vs Exogenous
+### Endogenous Vs Exogenous
 
-## stop losses
+### stop losses
 * static stop loss
 * Dynamic stop loss
 * a variable dynamic stop loss
